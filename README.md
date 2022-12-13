@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <h3 align="center">A passionate individual with a curious mind.😄</h3>
-<img align="right" width+"400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numangit&label=Profile%20views&color=0e75b6&style=flat" alt="numangit" /> </p>
 

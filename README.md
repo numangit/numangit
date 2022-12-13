@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numangit&label=Profile%20views&color=0e75b6&style=flat" alt="numangit" /> </p>
 
-- 🌱 I’m currently learning **Redux and TypeScripT**
+- 🌱 I’m currently learning **Redux and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://numan-portfolio.web.app/](https://numan-portfolio.web.app/)
 

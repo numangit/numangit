@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Pixels&pause=1000&color=00F727&width=435&lines=Hey+you%2C+Keep+coding!+%F0%9F%91%8A%F0%9F%8F%BD" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=numangit&label=Profile%20views&color=0e75b6&style=flat" alt="numangit" /> </p>
+[![](https://visitcount.itsvg.in/api?id=numangit&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Numan#5642) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-al-numan/) 
@@ -23,8 +23,5 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=numangit&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

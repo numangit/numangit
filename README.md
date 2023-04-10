@@ -24,3 +24,4 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Pixels&pause=1000&color=00F727&width=435&lines=Hey+you%2C+Keep+coding!+%F0%9F%91%8A%F0%9F%8F%BD" alt="Typing SVG" /></a>

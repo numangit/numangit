@@ -19,14 +19,14 @@
 <details>
   <summary>More stats</summary>
 <a  href="https://github.com/numangit">
-<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numangit&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" width="50%"/></p> 
+<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numangit&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" width="50%"/></p> 
 
-<p><img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" width="50%"/></p>
+<p><img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en&theme=gotham&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" width="50%"/></p>
 </a>
   
 <p align="center">
   <a href="https://github.com/numangit">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=numangit&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=numangit&theme=gotham&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit"/>
   </a>
 </p>
 </details>

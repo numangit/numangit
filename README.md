@@ -25,8 +25,8 @@
 </a>
   
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=numangit&theme=react" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/numangit">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=numangit&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit"/>
   </a>
 </p>
 </details>
@@ -34,5 +34,5 @@
 
 <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=30&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
 </p>

@@ -20,16 +20,16 @@
   <summary>More stats</summary>
   <a  href="https://github.com/numangit">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 <p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numangit&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" /></p> 
 
-<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en" alt="numangit" /></p>
+<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" /></p>
 </details>
 </div>
 

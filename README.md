@@ -20,9 +20,9 @@
   <summary>More stats</summary>
   <a  href="https://github.com/numangit">
 
-<img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="[https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg](https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF)" width="32.5%">
 <img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="[https://raw.githubusercontent.com/numangit/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg](https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF)" width="32.5%">
 
 </a>
   
@@ -33,7 +33,7 @@
 </details>
 </div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>

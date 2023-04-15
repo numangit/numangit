@@ -17,6 +17,6 @@
 
 # 📊 GitHub Stats:
 
-<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numangit&show_icons=true&locale=en&layout=compact" alt="numangit" /></p> 
+<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numangit&show_icons=true&locale=en&layout=compacttheme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="numangit" /></p> 
 
 <p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=numangit&show_icons=true&locale=en" alt="numangit" /></p> 

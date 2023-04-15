@@ -6,7 +6,8 @@
  </a>
 </p>
   <p align="right">
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+   ### Visitor count:
+<img src="https://profile-counter.glitch.me/numangit/count.svg" />
    </p>
   </div>
    
